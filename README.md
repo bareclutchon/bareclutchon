@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm bareclutchon 👋
 
-<!--
-**bareclutchon/bareclutchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web tools and internal utilities with TypeScript, Node.js, and React — mostly things that solve a specific problem without overengineering. I gravitate toward SQLite, Express, and serverless setups because they let me move quickly and keep infrastructure simple. Indie web projects and pragmatic development are what keep me interested in this work.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building a lightweight serverless API toolkit with TypeScript and SQLite.
+- reach me at **@bareclutchon** on GitHub
+- currently deep in indie web projects
+
+<p align="center">
+  <img width="99%" src="https://github-profile-trophy.vercel.app/?username=bareclutchon&theme=synthwave&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=bareclutchon&hide_border=true&theme=react" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bareclutchon&hide_border=true&theme=synthwave" alt="Commit streak" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bareclutchon&layout=compact&langs_count=8&hide_border=true&theme=synthwave" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Express-58a6ff?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Node.js-58a6ff?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/SQLite-58a6ff?style=for-the-badge&logoColor=white" alt="SQLite" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
